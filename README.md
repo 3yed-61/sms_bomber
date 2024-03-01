@@ -1,6 +1,6 @@
 # sms bomber
 <h3>❌ Tip: Use CTRL+C to finish! ❌</h3>
-update : https://github.com/esfelurm/iran-bomber
+update : https://github.com/3yed-61/iran-bomber
 <li>Powerful SMS to send consecutively to the target number!</li>
 <li>Number of Sms web services: 200 </li>
 <li>call web services: 3 </li>
@@ -10,8 +10,8 @@ update : https://github.com/esfelurm/iran-bomber
 <li>Running on Windows, Termux, Linux </li>
 
 ```
-git clone https://github.com/esfelurm/sms_bomber
+git clone https://github.com/3yed-61/sms_bomber
 cd sms_bomber
 python sms_bomber.py
 ```
-<li> Channel Telegram : @esfelurm </li>
+
